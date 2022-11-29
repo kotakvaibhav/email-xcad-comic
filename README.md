@@ -4,6 +4,7 @@ This php application accepts visitor's email address then verifies that with OTP
 #Links to Website
 
 Subscribe Page -- http://testphprandomcomic.epizy.com
+
 Unsubscribe Page -- http://testphprandomcomic.epizy.com/unsubscribe.php
 
 
